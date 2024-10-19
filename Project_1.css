@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-section {
+    background-color: rgb(218, 140, 44);
+    height: 590vh;
+    width: 900vw;
+    border: 2px solid blue;
+    margin: 20px 20px 20px 20px;
+    position: absolute;
+}
+
+#head_one {
+    padding-top: 40px;
+    padding-left: 80px;
+}
+
+#head_two {
+    padding-left: 80px;
+
+}
+p {
+    padding-left: 80px;
+    line-height: 1.5;
+}
+#head_4 {
+    padding-left: 80px;
+}
+input[placeholder="Your e-mail address"]{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    margin-left: 80px;
+}
+button[type="submit"]{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+img[ alt="Image"]{
+    margin-left: 600px;
+    margin-top: -400px;
+    border: 0px solid ;
+}
+
+.footer-section {
+    background-color: black;
+    height: 200vh;
+    width: 900vw;
+    margin-top: 116px;
+    display: inline-flex;
+    padding-left: 80px;
+    padding-top: 30px;
+    
+}
